@@ -6,6 +6,12 @@ Um projeto com **duas skills** para ajudar a ler documentos veterinários, organ
 
 > **Situação atual:** estrutura e instruções prontas para adaptação e teste. Todos os exemplos são fictícios. Nenhum documento real foi analisado. As skills ainda não foram homologadas no ambiente da empresa.
 
+## SOS PARCERIA
+
+O [índice SOS PARCERIA](documentacao/sos-parceria/README.md) reúne protocolo, critérios, layout, limites das fontes e roteiro de treinamento. Comece pelo [lote fictício](referencias/documentos/lote-sos-ficticio.md), use o [prompt operacional](prompts/consolidar-sos-parceria-v1.md) e confira o [gabarito](referencias/consolidacoes/sos-ficticio-esperado.md) e os [cenários de aceite](testes/cenarios-sos-parceria.md).
+
+Este módulo é documentação para revisão e ensaio; não comprova homologação, execução dos cenários ou atualização de planilha. PDFs reais, dados pessoais e resultados privados não pertencem ao repositório.
+
 ## 1 Como funciona
 
 ```mermaid
