@@ -1,0 +1,154 @@
+{
+  "versao_contrato": "0.2",
+  "lote_id": "DEMO-001",
+  "tipo_dados": "FICTICIOS",
+  "versao_campos": "0.2",
+  "registros": [
+    {
+      "record_id": "REG-001",
+      "document_id": "DOC-001",
+      "versao_extracao": 1,
+      "status": "em_revisao",
+      "campos": {
+        "animal_nome": {
+          "valor_original": "Lua",
+          "valor_normalizado": "Lua",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Lua. Espécie: canina. Avaliação: 20/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "especie": {
+          "valor_original": "canina",
+          "valor_normalizado": "canina",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Lua. Espécie: canina. Avaliação: 20/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "data_avaliacao": {
+          "valor_original": "20/10/2026",
+          "valor_normalizado": "2026-10-20",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Lua. Espécie: canina. Avaliação: 20/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        }
+      },
+      "pendencias": []
+    },
+    {
+      "record_id": "REG-002",
+      "document_id": "DOC-002",
+      "versao_extracao": 1,
+      "status": "em_revisao",
+      "campos": {
+        "animal_nome": {
+          "valor_original": "Nino",
+          "valor_normalizado": "Nino",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Nino. Espécie: felina. Avaliação: 21/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "especie": {
+          "valor_original": "felina",
+          "valor_normalizado": "felina",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Nino. Espécie: felina. Avaliação: 21/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "data_avaliacao": {
+          "valor_original": "21/10/2026",
+          "valor_normalizado": "2026-10-21",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Nino. Espécie: felina. Avaliação: 21/10/2026.",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        }
+      },
+      "pendencias": []
+    },
+    {
+      "record_id": "REG-003",
+      "document_id": "DOC-003",
+      "versao_extracao": 1,
+      "status": "em_revisao",
+      "campos": {
+        "animal_nome": {
+          "valor_original": "Bela",
+          "valor_normalizado": "Bela",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Bela. Espécie: canina. Avaliação: [data ilegível].",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "especie": {
+          "valor_original": "canina",
+          "valor_normalizado": "canina",
+          "situacao": "encontrado",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Bela. Espécie: canina. Avaliação: [data ilegível].",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        },
+        "data_avaliacao": {
+          "valor_original": null,
+          "valor_normalizado": null,
+          "situacao": "ilegivel",
+          "evidencias": [
+            {
+              "pagina_pdf": 1,
+              "trecho": "Paciente: Bela. Espécie: canina. Avaliação: [data ilegível].",
+              "metodo": "texto_ficticio"
+            }
+          ],
+          "confianca_calibrada": null
+        }
+      },
+      "pendencias": [
+        "Data da avaliação ilegível; conferir original."
+      ]
+    }
+  ]
+}

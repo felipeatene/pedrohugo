@@ -1,0 +1,36 @@
+{
+  "tipo_dados": "FICTICIOS",
+  "aviso": "Aprovações inventadas apenas para demonstrar o fluxo; sem validade para dados reais.",
+  "revisoes": [
+    {
+      "review_id": "REV-001",
+      "record_id": "REG-001",
+      "versao_extracao": 1,
+      "decisao": "aprovar",
+      "revisor_id": "REVISOR_FICTICIO",
+      "instante": "2026-10-21T12:00:00Z",
+      "alteracoes": [],
+      "motivo": "Conferência fictícia do exemplo."
+    },
+    {
+      "review_id": "REV-002",
+      "record_id": "REG-002",
+      "versao_extracao": 1,
+      "decisao": "aprovar",
+      "revisor_id": "REVISOR_FICTICIO",
+      "instante": "2026-10-21T12:00:00Z",
+      "alteracoes": [],
+      "motivo": "Conferência fictícia do exemplo."
+    },
+    {
+      "review_id": "REV-003",
+      "record_id": "REG-003",
+      "versao_extracao": 1,
+      "decisao": "pendente",
+      "revisor_id": "REVISOR_FICTICIO",
+      "instante": "2026-10-21T12:00:00Z",
+      "alteracoes": [],
+      "motivo": "Data ilegível; conferir o original."
+    }
+  ]
+}

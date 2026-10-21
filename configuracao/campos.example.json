@@ -1,0 +1,28 @@
+{
+  "versao": "0.2",
+  "status": "EXEMPLOS_A_CONFIRMAR",
+  "unidade": "avaliacao_por_documento",
+  "campos": [
+    {
+      "id": "animal_nome",
+      "rotulo": "Nome do animal",
+      "tipo": "texto",
+      "obrigatorio": false,
+      "instrucao": "Transcrever o nome associado à avaliação; não usar como identidade única."
+    },
+    {
+      "id": "especie",
+      "rotulo": "Espécie",
+      "tipo": "texto",
+      "obrigatorio": false,
+      "instrucao": "Usar espécie explicitamente informada; não inferir pela raça."
+    },
+    {
+      "id": "data_avaliacao",
+      "rotulo": "Data da avaliação",
+      "tipo": "data",
+      "obrigatorio": true,
+      "instrucao": "Converter para AAAA-MM-DD somente quando dia mês e ano forem inequívocos."
+    }
+  ]
+}

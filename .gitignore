@@ -1,0 +1,13 @@
+# Dados reais e configurações privadas nunca devem ser publicados.
+dados/**
+!dados/.gitkeep
+configuracao/*.local.json
+.env
+.env.*
+*.pdf
+*.sqlite*
+*.db
+*.log
+.venv/
+__pycache__/
+.DS_Store

@@ -1,0 +1,19 @@
+{
+  "versao": "0.2",
+  "modo": "ensaio_ficticio",
+  "processamento_real_verificado": false,
+  "origem_pdfs": "PREENCHER_FORA_DO_GIT",
+  "pasta_privada": "PREENCHER_FORA_DO_GIT",
+  "responsavel": "DEFINIR",
+  "revisor": "DEFINIR",
+  "modelo_e_executor": "DEFINIR_COM_TI",
+  "envio_externo_autorizado": false,
+  "aprovacao_automatica": false,
+  "referencias_privadas": [],
+  "limites": {
+    "max_mb": null,
+    "max_paginas": null,
+    "tempo_max_segundos": null
+  },
+  "retencao_dias": null
+}
