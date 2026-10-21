@@ -38,7 +38,7 @@
 
 **F:** banho terapêutico, quantidade 1, preço unitário R$ 100, mas total apresentado R$ 230. Sedação avulsa 1×R$ 180.
 
-**G:** sedação autônoma não prevista no catálogo simulado.
+**G:** banho terapêutico e sedação avulsa não previstos no catálogo simulado. Preservar a natureza de orçamento; isso não prova execução nem pagamento.
 
 **H:** inconsistência do banho (diferença R$ 130), ausência de datas de atendimento e de comprovação de pagamento. O documento é orçamento, **não** comprovante de execução. Não transformar sua data de emissão em data clínica.
 

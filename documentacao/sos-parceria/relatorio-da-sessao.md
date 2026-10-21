@@ -4,9 +4,13 @@
 
 > Este relatório sintetiza o histórico relatado na conversa. Não é transcrição literal nem certificação de que todos os lançamentos anteriores foram confirmados. O repositório é público: nomes de tutores, documentos clínicos, fotos, pagamentos e IDs internos não devem ser publicados.
 
+## Limite de verificação desta continuação
+
+Em 21/10/2026, o histórico recuperado mostrou mensagens do usuário, referências a respostas sem conteúdo e anexos indisponíveis. A cronologia abaixo foi herdada da branch; não foi confirmada independentemente contra a íntegra da conversa, os PDFs, o Plano ou a planilha. A orientação de manter setembro com reforço das datas ausentes está visível, mas vale para o caso decidido pelo responsável. Nenhuma alegação abaixo certifica leitura dos documentos ou atualização do Drive nesta continuação.
+
 ## 1. Escopo construído
 
-O projeto foi iniciado para repetir a metodologia de um termo anterior (referido na conversa como “953”) no Termo de Fomento SOS PARCERIA. A cada anexo, era necessário identificar os animais, revisar fichas, demonstrativos, exames, notas e comprovantes, localizar os procedimentos previstos no Plano de Trabalho, discriminar valores e registrar inconsistências sem antecipar conclusões próprias do RTMA.
+O projeto foi iniciado para repetir a metodologia de um termo anterior no Termo de Fomento SOS PARCERIA. A cada anexo, era necessário identificar os animais, revisar fichas, demonstrativos, exames, notas e comprovantes, localizar os procedimentos previstos no Plano de Trabalho, discriminar valores e registrar inconsistências sem antecipar conclusões próprias do RTMA.
 
 O processo evoluiu de respostas textuais para preenchimento de uma única planilha no Google Drive, com abas mensais de **prontuários** e abas mensais de **notas fiscais**, mantidas separadas.
 
